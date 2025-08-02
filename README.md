@@ -3,7 +3,7 @@
 
 ---
 
-### 📄 `README.md`
+ `README.md`
 
 ```markdown
  My Portfolio Website
@@ -20,7 +20,7 @@ This is a personal portfolio website created using HTML and CSS. It showcases a 
 - **CSS3**: Styling and animations
 - *(JavaScript can be added later for interactivity)*
 
-## 📁 Project Structure
+ Project Structure
 
 ```
 
@@ -37,7 +37,7 @@ project-root/
 
 ````
 
-## 🚀 Features
+ Features
 
 - 🔷 Animated vertical bars for a dynamic background
 - 🔷 Fixed header with responsive navigation bar
@@ -45,7 +45,7 @@ project-root/
 - 🔷 Semantic HTML structure for accessibility
 - 🔷 Lightweight and easy to extend
 
-## 📜 Sample Code Overview
+ Sample Code Overview
 
 ### HTML: `index.html`
 ```html
@@ -63,8 +63,7 @@ project-root/
   </nav>
 </header>
 ````
-
-### CSS Animation (in `style.css`)
+ CSS Animation (in `style.css`)
 
 ```css
 .bars-animation .bar {
@@ -73,11 +72,11 @@ project-root/
 }
 ```
 
-## 🧑‍💻 About the Developer
+ About the Developer
 
 Hi! I'm **Ezra Langat**, an aspiring web developer with a strong foundation in front-end technologies and a passion for crafting responsive and user-friendly websites.
 
-## 📌 How to Use
+ How to Use
 
 1. Clone the repository:
 
@@ -86,10 +85,6 @@ Hi! I'm **Ezra Langat**, an aspiring web developer with a strong foundation in f
    ```
 2. Open `index.html` in your browser.
 3. Customize the content (text, images, links) as needed.
-
-## 📷 Screenshots
-
-*(Optional: Add screenshots or GIFs here showing the website layout and animations)*
 
 
 ---
